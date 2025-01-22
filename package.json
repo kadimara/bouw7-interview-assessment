@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "test": "ts-node ./typescript/Container.test.ts"
+  },
+  "dependencies": {
+    "reflect-metadata": "^0.2.2"
+  }
+}
